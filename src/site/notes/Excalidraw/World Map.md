@@ -8,10 +8,6 @@
 # Excalidraw Data
 
 ## Text Elements
-
-{ #xKcLvoUr}
-
-
 [[Géographie/Terres Sauvages\|Terres Sauvages]]
 { #se0PrhvS}
 
