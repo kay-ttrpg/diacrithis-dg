@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/diacrithis-chronicles/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-Name of the campaign setting for all my current and future D&D adventures. Most of those adventures will take place on the continent of [[World/Diacrithis\|Diacrithis]].
+Nom du cadre de campagne pour toutes mes aventures D&D futures et actuelles. La plupart de ces aventures se dérouleront sur le continent de [[Géographie/Diacrithis\|Diacrithis]].
