@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/readme/","hideInGraph":true,"dg-note-properties":{}}
 ---
 
 Welcome to [[Diacrithis Chronicles\|Diacrithis Chronicles]]!
